@@ -11,7 +11,7 @@ function changeColor(e)
 		{
 			if(j!=ele)
 			{
-				j.style.backgroundColor="coffee"
+				j.style.backgroundColor="coffee";
 }
 }
 }
