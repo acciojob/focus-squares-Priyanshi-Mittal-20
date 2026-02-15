@@ -12,7 +12,7 @@ function changeColor(e)
 		{
 			if(j != ele)
 			{
-				j.style.background-color="rgb(111,78,55)";
+				j.style.backgroundColor="rgb(111,78,55)";
 }
 }
 }
@@ -20,6 +20,6 @@ function resetColor(e)
 {
 	for(let k of squares)
 		{
-			k.style.background-color="rgb(230,230,250)"
+			k.style.backgroundColor="rgb(230,230,250)"
 }
 }
