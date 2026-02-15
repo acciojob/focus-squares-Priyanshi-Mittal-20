@@ -6,12 +6,12 @@ for(let i of squares)
 }
 function changeColor(e)
 {
-	let ele=e.target
+	let ele=e.target;
 	for(let j of squares)
 		{
-			if(j!=ele)
+			if(j != ele)
 			{
-				j.style.backgroundColor="coffee";
+				j.style.backgroundColor="rgb(111,78,55)";
 }
 }
 }
